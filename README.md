@@ -1,4 +1,4 @@
-# MOOC_NA_debutant_efelia
+# MOOC NA débutant
 Ce dépôt contient les notebooks R pour le MOOC Efelia sur les données manquantes, destiné aux utilisateurs débutants en machine learning.
 
 TP1 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AudeSportisse/MOOC_NA_debutant_efelia/HEAD?urlpath=%2Fdoc%2Ftree%2FTP1_MOOC_Debutant.ipynb)
